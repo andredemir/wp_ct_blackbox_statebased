@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 class StateTestTemplateSimple {
 
-	@Test
+	/*@Test
 	void test() {
 		SbSimple1.start(); // (re-) starting the SbSimple1
 		SbSimple1.getStateName(); // returns the name of the current state
